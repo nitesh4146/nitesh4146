@@ -13,8 +13,8 @@
  
 
 <div align="center"> 
-    <div>
-        <<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitesh4146&theme=dark&show_icons=true">
+    <div align="left">
+        <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitesh4146&theme=dark&show_icons=true">
     </div>
     <div>
         <img src="./self-driving-car-lidar.gif" alt="./self-driving-car-lidar.gif" width="400"/>
