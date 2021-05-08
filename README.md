@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Nitish Gupta
 
-![self-driving-car-lidar](./self-driving-car-lidar.png)
+![self-driving-car-lidar](./self-driving-car-lidar.gif)
 
 <!--
 **nitesh4146/nitesh4146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
