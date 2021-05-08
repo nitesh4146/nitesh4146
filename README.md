@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
 
-[![Nitish's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/nitesh4146/github-readme-stats)
+[![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitesh4146)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"><img src="./self-driving-car-lidar.gif" alt="./self-driving-car-lidar.gif" width="500"/></div>
 
