@@ -2,15 +2,19 @@
 
 
 <div align="center">  <h1> Hi there 👋 </div>
-  
+<div align="center"> 
 <p>
   <a href="https://www.twitter.com/slick_mind">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/nitish-gupta/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 </p>
+</div>
+ 
 
+<div align="center"> 
 [![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitesh4146&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align="center"><img src="./self-driving-car-lidar.gif" alt="./self-driving-car-lidar.gif" width="500"/></div>
 
