@@ -12,7 +12,7 @@
 </div>
  
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitesh4146&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=nitesh4146&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
 <div align="center"><img src="./self-driving-car-lidar.gif" alt="./self-driving-car-lidar.gif" width="500"/></div>
 
