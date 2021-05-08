@@ -1,7 +1,7 @@
 
 
 
-<div align="center">  ### Hi there 👋 I am Nitish Gupta </div><break>
+<div align="center">  <h1> Hi there 👋 I am Nitish Gupta </div>
 <div align="center"><img src="./self-driving-car-lidar.gif" alt="./self-driving-car-lidar.gif" width="500"/></div>
 
 <!--
