@@ -10,7 +10,7 @@
   <a href="https://www.guptanitish.com/" target="_blank">
     <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.guptanitish.com" height=25></a> 
   <a href="https://www.blog.guptanitish.com/" target="_blank">
-    <img src="https://img.shields.io/blog?style=for-the-badge&url=https%3A%2F%2Fwww.blog.guptanitish.com" height=25></a> 
+    <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.blog.guptanitish.com" height=25></a> 
 
 </p>
 </div>
