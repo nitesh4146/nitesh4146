@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.guptanitish.com/" target="_blank">
     <img src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fwww.guptanitish.com" height=25></a> 
-  <a href="https://www.blog.guptanitish.com/" target="_blank">
+  <a href="https://blog.guptanitish.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-%237159c1?style=for-the-badge&logo=ghost" height=25></a> 
 
 </p>
