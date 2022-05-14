@@ -1,7 +1,6 @@
 
 
 
-<div align="center">  <h1> Hi there 👋 </div>
 <div align="center"> 
 <p>
   <a href="https://www.twitter.com/slick_mind" target="_blank">
