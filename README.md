@@ -16,7 +16,7 @@
 </div>
  
 <div align="center"> 
-<img src="./giphy.gif" alt="./giphy.gif" width="800"/>
+<img src="./giphy.gif" alt="./giphy.gif" width="600"/>
 </div>
 <!--
 **nitesh4146/nitesh4146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
