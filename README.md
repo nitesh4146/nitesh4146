@@ -16,7 +16,7 @@
 </div>
  
 <div align="center"> 
-<img src="./self-driving-car-lidar.gif" alt="./self-driving-car-lidar.gif" width="800"/>
+<img src="https://giphy.com/embed/13HgwGsXF0aiGY" alt="./self-driving-car-lidar.gif" width="800"/>
 </div>
 <!--
 **nitesh4146/nitesh4146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
